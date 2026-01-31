@@ -1,0 +1,51 @@
+Patient_ID,Age,Gender,Department,Admission_Date,Discharge_Date,Admission_Type,Doctor_ID,Outcome,Cost,Doctor_Daily_Capacity,Bed_Capacity
+P001,32,Male,Orthopedics,2025-01-08,2025-01-12,Emergency,D01,Improved,40741,8,100
+P002,29,Female,Emergency,2025-01-01,2025-01-03,Emergency,D02,Improved,6739,8,100
+P003,43,Female,Cardiology,2025-01-15,2025-01-25,Scheduled,D01,Improved,15463,8,100
+P004,72,Female,Orthopedics,2025-01-05,2025-01-09,Scheduled,D01,Recovered,11338,8,100
+P005,63,Female,Orthopedics,2025-01-26,2025-01-27,Scheduled,D05,Recovered,29807,8,100
+P006,28,Female,Orthopedics,2025-01-19,2025-01-23,Emergency,D01,Improved,23965,8,100
+P007,28,Male,Emergency,2025-01-13,2025-01-18,Scheduled,D03,Recovered,28283,8,100
+P008,44,Female,Emergency,2025-01-20,2025-01-31,Emergency,D05,Improved,15708,8,100
+P009,77,Female,Orthopedics,2025-01-30,2025-02-10,Emergency,D03,Transferred,8665,8,100
+P010,47,Male,Orthopedics,2025-01-13,2025-01-18,Emergency,D02,Transferred,42170,8,100
+P011,58,Male,General Medicine,2025-01-13,2025-01-24,Scheduled,D02,Recovered,21162,8,100
+P012,51,Female,General Medicine,2025-01-12,2025-01-16,Emergency,D05,Recovered,8087,8,100
+P013,32,Male,Cardiology,2025-01-26,2025-02-06,Scheduled,D05,Recovered,30009,8,100
+P014,77,Female,Emergency,2025-01-22,2025-02-03,Emergency,D05,Improved,47006,8,100
+P015,61,Male,Orthopedics,2025-01-14,2025-01-17,Scheduled,D01,Deceased,22261,8,100
+P016,82,Male,Emergency,2025-01-28,2025-02-08,Scheduled,D05,Improved,15016,8,100
+P017,65,Male,Emergency,2025-01-20,2025-01-26,Scheduled,D01,Recovered,28788,8,100
+P018,57,Male,Emergency,2025-01-08,2025-01-18,Emergency,D01,Improved,9535,8,100
+P019,34,Male,General Medicine,2025-01-31,2025-02-09,Emergency,D03,Improved,44753,8,100
+P020,72,Male,Cardiology,2025-01-23,2025-01-28,Scheduled,D03,Recovered,38919,8,100
+P021,75,Male,Cardiology,2025-01-08,2025-01-10,Scheduled,D01,Improved,20080,8,100
+P022,46,Male,Emergency,2025-01-23,2025-02-03,Emergency,D02,Recovered,7058,8,100
+P023,60,Male,Cardiology,2025-01-09,2025-01-20,Scheduled,D02,Improved,42423,8,100
+P024,78,Male,General Medicine,2025-01-26,2025-02-02,Emergency,D01,Recovered,33249,8,100
+P025,63,Female,General Medicine,2025-01-15,2025-01-29,Emergency,D01,Recovered,27236,8,100
+P026,31,Male,Cardiology,2025-01-07,2025-01-16,Scheduled,D02,Recovered,23254,8,100
+P027,77,Male,Emergency,2025-01-15,2025-01-28,Emergency,D01,Improved,40427,8,100
+P028,19,Male,Cardiology,2025-01-06,2025-01-13,Scheduled,D04,Recovered,31282,8,100
+P029,25,Male,General Medicine,2025-01-01,2025-01-08,Scheduled,D04,Recovered,41422,8,100
+P030,80,Male,Cardiology,2025-01-10,2025-01-14,Emergency,D05,Improved,8994,8,100
+P031,58,Male,Emergency,2025-01-19,2025-01-27,Emergency,D01,Deceased,10250,8,100
+P032,41,Male,Emergency,2025-01-22,2025-02-05,Emergency,D04,Recovered,42334,8,100
+P033,49,Male,Emergency,2025-01-14,2025-01-25,Scheduled,D03,Recovered,25590,8,100
+P034,48,Female,General Medicine,2025-01-05,2025-01-16,Scheduled,D04,Recovered,9754,8,100
+P035,19,Female,Emergency,2025-01-03,2025-01-12,Emergency,D05,Recovered,27872,8,100
+P036,26,Male,Orthopedics,2025-01-10,2025-01-13,Scheduled,D05,Improved,45086,8,100
+P037,85,Male,Orthopedics,2025-01-30,2025-02-10,Emergency,D02,Recovered,12014,8,100
+P038,37,Female,Orthopedics,2025-01-20,2025-01-24,Scheduled,D02,Improved,22300,8,100
+P039,82,Female,Orthopedics,2025-01-29,2025-02-12,Emergency,D01,Improved,23132,8,100
+P040,23,Male,Orthopedics,2025-01-25,2025-01-28,Scheduled,D02,Improved,41154,8,100
+P041,72,Male,Emergency,2025-01-03,2025-01-15,Emergency,D05,Recovered,29196,8,100
+P042,36,Female,Cardiology,2025-01-02,2025-01-07,Scheduled,D01,Transferred,18767,8,100
+P043,49,Male,Orthopedics,2025-01-25,2025-02-03,Scheduled,D05,Improved,20514,8,100
+P044,38,Male,General Medicine,2025-01-01,2025-01-04,Scheduled,D04,Transferred,21263,8,100
+P045,52,Male,Emergency,2025-01-13,2025-01-27,Emergency,D04,Recovered,35166,8,100
+P046,62,Female,Cardiology,2025-01-08,2025-01-09,Emergency,D04,Recovered,9549,8,100
+P047,53,Female,General Medicine,2025-01-22,2025-02-05,Scheduled,D01,Recovered,22118,8,100
+P048,40,Female,Emergency,2025-01-04,2025-01-14,Scheduled,D03,Improved,25557,8,100
+P049,73,Male,General Medicine,2025-01-29,2025-02-08,Emergency,D03,Recovered,33577,8,100
+P050,18,Male,Orthopedics,2025-01-14,2025-01-16,Scheduled,D05,Recovered,13167,8,100
