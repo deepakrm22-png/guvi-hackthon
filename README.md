@@ -47,4 +47,14 @@ patient outcomes, admissions, bed occupancy, and operational KPIs.
 ## Demo Video
 (Added in submission form)
 
+### Note on Report Access
+The Power BI dashboard is shared as a `.pbix` file via Google Drive and GitHub.
+
+To view the interactive dashboard:
+1. Download the `.pbix` file
+2. Open it using **Power BI Desktop**
+
+Publishing the report to the web is restricted by the Power BI tenant policy, so a public embed link is not available.
+
+
 
